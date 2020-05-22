@@ -6,7 +6,9 @@ namespace GithubTesting1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("What is your name?");
+            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
